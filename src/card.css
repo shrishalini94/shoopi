@@ -1,0 +1,41 @@
+.card{
+    width: 900px;
+    height: 100px;
+    margin-left: 450px;
+    margin-top: 30px;
+    justify-content: center;
+   
+}
+.eachcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ .left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ }
+.leftimg{
+    background-color:#AAD460;
+    border-radius: 40px;
+    margin-left: 20px;
+    height: 50px;
+    width:50px;
+    text-align: center;
+}
+.rightname{
+    font-size: large;
+    font-weight: bold;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.line2{
+    font-weight: lighter;
+}
+.right{
+    font-weight: bold;
+    margin-right: 100px;
+}

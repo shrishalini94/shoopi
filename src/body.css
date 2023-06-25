@@ -1,0 +1,35 @@
+.body{
+    width:900px;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+
+.input{
+    width:900px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: rgb(206, 199, 199);
+}
+.filter{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 5px;
+}
+.filtertab{
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+.navbar{
+    list-style-type: none;
+    color:#142C8F ;
+    padding: 5px;
+    font-weight: lighter;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+.navbar:hover{
+    background-color: skyblue;
+}
